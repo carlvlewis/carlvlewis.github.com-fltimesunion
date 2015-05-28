@@ -1,6 +1,6 @@
 #Data Journalism Links and Resources
 ####Prepared by: [Carl V. Lewis](http://carlvlewis.net) (@carlvlewis)
-#### Prepared for: The Florida Times-Union/jacksonville.com
+#### Prepared for: The Augusta Chronicle/augustachronicle.com
 #### Dates: Nov. 28-30, 2012
 ###Slides: http://www.slideshare.net/carlvlewis/introduction-to-data-journalism
 
